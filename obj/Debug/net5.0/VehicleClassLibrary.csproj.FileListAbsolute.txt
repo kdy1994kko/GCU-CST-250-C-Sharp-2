@@ -1,0 +1,12 @@
+C:\Users\kdy19\source\repos\Work\CST-250\VehicleClassLibrary\VehicleClassLibrary\bin\Debug\net5.0\VehicleClassLibrary.deps.json
+C:\Users\kdy19\source\repos\Work\CST-250\VehicleClassLibrary\VehicleClassLibrary\bin\Debug\net5.0\VehicleClassLibrary.dll
+C:\Users\kdy19\source\repos\Work\CST-250\VehicleClassLibrary\VehicleClassLibrary\bin\Debug\net5.0\ref\VehicleClassLibrary.dll
+C:\Users\kdy19\source\repos\Work\CST-250\VehicleClassLibrary\VehicleClassLibrary\bin\Debug\net5.0\VehicleClassLibrary.pdb
+C:\Users\kdy19\source\repos\Work\CST-250\VehicleClassLibrary\VehicleClassLibrary\obj\Debug\net5.0\VehicleClassLibrary.csproj.AssemblyReference.cache
+C:\Users\kdy19\source\repos\Work\CST-250\VehicleClassLibrary\VehicleClassLibrary\obj\Debug\net5.0\VehicleClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdy19\source\repos\Work\CST-250\VehicleClassLibrary\VehicleClassLibrary\obj\Debug\net5.0\VehicleClassLibrary.AssemblyInfoInputs.cache
+C:\Users\kdy19\source\repos\Work\CST-250\VehicleClassLibrary\VehicleClassLibrary\obj\Debug\net5.0\VehicleClassLibrary.AssemblyInfo.cs
+C:\Users\kdy19\source\repos\Work\CST-250\VehicleClassLibrary\VehicleClassLibrary\obj\Debug\net5.0\VehicleClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kdy19\source\repos\Work\CST-250\VehicleClassLibrary\VehicleClassLibrary\obj\Debug\net5.0\VehicleClassLibrary.dll
+C:\Users\kdy19\source\repos\Work\CST-250\VehicleClassLibrary\VehicleClassLibrary\obj\Debug\net5.0\ref\VehicleClassLibrary.dll
+C:\Users\kdy19\source\repos\Work\CST-250\VehicleClassLibrary\VehicleClassLibrary\obj\Debug\net5.0\VehicleClassLibrary.pdb
